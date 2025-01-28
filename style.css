@@ -1,0 +1,24 @@
+body {
+    width: 100vw;
+    height: 50vw;
+    background-color: rgb(231, 235, 158);
+    font-size: 20px;
+    color: rgb(31, 33, 12);
+    object-fit: contain;
+    font-family: 'Lora', sans-serif;
+}
+header {
+    width: 100vw;
+    height: 2vw;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    color: rgb(31, 33, 12);
+    object-fit: contain;
+    font-family: 'Lora', sans-serif;
+
+}
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
